@@ -27,6 +27,7 @@ Publish the website in the given URL.
 
 ## PROGRAM :
 ```
+calc.html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -154,8 +155,9 @@ h1{
 ```
 
 ## OUTPUT:
-![Output](input.png)
-![Output](output.png)
+![input](https://github.com/Mkumar262006/standard-calculator/assets/147139472/2b783661-a0d4-4417-99af-1be387754e31)
+![output](https://github.com/Mkumar262006/standard-calculator/assets/147139472/54c6fa3d-6716-439e-af34-141290bf852d)
+
 
 ## Result:
 The program for designing a simple calculator using JavaScript is executed successfully.
